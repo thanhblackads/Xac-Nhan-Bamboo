@@ -1,0 +1,1 @@
+(Đoạn mã script đầy đủ được trích từ phần bạn gửi, sẽ được đặt vào file script.js)
